@@ -62,12 +62,11 @@ education:
   #     url: 'https://example.com'
   - area: Integrated MEng & PhD Bioinformatics
     institution: Seoul National University
-    date_start: 2023-03
-    date_end: 
+    date_start: 2023-03-01
   - area: BSc Food Biology and Technology
     institution: Korea National University
-    date_start: 2018-03
-    date_end: 2022-02
+    date_start: 2018-03-01
+    date_end: 2022-02-28
     # summary: |
     #   GPA: 3.89/4.5
       
