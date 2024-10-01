@@ -1,0 +1,14 @@
+/*
+ * File: custom.css
+ * Project: css
+ * File Created: 1st Oct 2024
+ * Author: Rachel Seongeun Kim (seamustard52@gmail.com)
+ * -----
+ * Copyright: Rachel Seongeun Kim
+ */
+
+ .resume-skills {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
